@@ -34,4 +34,4 @@ noStroke();
 ellipse(490,420,15,15); // little white
 
 stroke(0);
-line(500,475,500,675);
+line(500,475,500,675); 
